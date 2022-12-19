@@ -1,4 +1,4 @@
-# PBS
+# TPBS
 
 For everything BJJ Related!
 
@@ -10,7 +10,7 @@ For everything BJJ Related!
 - [ERD]()
 - [Wireframes]()
 
-## PBS
+## TPBS
 PBS is an app for anyone and everyone getting into the sport!
 
 ## Local Setup
